@@ -3,7 +3,7 @@
 .nav-outer {
 	width: 100%;
 	height: 67px;
-	background: #505E67;
+	background: #7C7C7C;
 	position: fixed !important;
 	z-index: 100000000;
 }
@@ -13,7 +13,7 @@
 }
 nav {
 	margin-top: 0;
-	background: #505E67;
+	background: #7C7C7C;
 	font-family: 'Questrial', sans-serif;
 }
 .nav ul {
@@ -84,7 +84,7 @@ body .nav .nav-menu li a {
 .nav.yoga .nav-toggled ul li a {
 	display:block;
 	width:100%;
-	background-color: #505E67;
+	background-color: #7C7C7C;
 	text-align:left;
 	padding:10px 0px 10px 15px;
 	border-bottom:1px solid #FFF;
@@ -100,11 +100,11 @@ body .nav .nav-menu li a {
 }
 .nav.yoga .nav-toggled ul li.active a {
 	background-color: #F5F5F5;
-	color: #505E67;
+	color: #7C7C7C;
 }
 .nav.yoga .nav-toggled ul li a:hover {
 	background: #F5F5F5;
-	color: #505E67;
+	color: #7C7C7C;
 }
 .nav.yoga .nav-toggled ul li {
 	position: relative;
@@ -191,10 +191,10 @@ body .nav .nav-menu li a {
 	z-index: 10000000000;
 	top: 50px;
 	text-align: left;
-	background: #505E67;
+	background: #7C7C7C;
 	width: 100%;
 	padding-left: 0;
-	display: none;	  
+	display: none;
 }
 .nav.yoga .nav-menu > li > ul a {
 	padding: 11px 15px;
@@ -213,7 +213,7 @@ body .nav .nav-menu li a {
 	top: 0;
 	width: 100%;
 	padding-left: 0;
-	background: #505E67;
+	background: #7C7C7C;
 }
 .nav .nav-menu > li > ul > li  ul a {
 	white-space: nowrap;
